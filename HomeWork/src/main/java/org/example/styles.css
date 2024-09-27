@@ -1,0 +1,6 @@
+h1{
+    background: burlywood;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
